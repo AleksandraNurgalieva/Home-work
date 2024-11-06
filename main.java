@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-class Lesson_2 {
+class Lesson_3 {
     public static void printThreeWords() {
         System.out.println("Orange");
         System.out.println("Banana");
@@ -106,8 +106,8 @@ class Lesson_2 {
         //8
         System.out.println(isLeapYear(500));
         //9
-        int[] arryoreverse = {1 , 0, 1};
-        arrayReverse(arryoreverse);
+        int[] arrayReverse = {1 , 0, 1};
+        arrayReverse(arrayReverse);
         //11
         int[] nums = new int[100];
         for (int i = 0; i < 100; i++) {
